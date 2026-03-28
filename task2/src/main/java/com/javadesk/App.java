@@ -134,7 +134,7 @@ class Triangle extends Figure {
  * Immutable - все операции возвращают новые объекты.
  */
 class Vector3D {
-    private final double x;  // иммутабельность через final поля
+    private final double x;
     private final double y;
     private final double z;
     
