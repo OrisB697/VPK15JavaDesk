@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App (Swing window)",
+            "request": "launch",
+            "mainClass": "com.javadesk.task5.App",
+            "javaExec": "C:\\Users\\Nagor\\.vscode\\extensions\\redhat.java-1.54.0-win32-x64\\jre\\21.0.10-win32-x86_64\\bin\\javaw.exe"
+        }
+    ]
+}
